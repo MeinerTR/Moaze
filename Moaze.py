@@ -3,8 +3,8 @@ from typing import Tuple;
 
 class Object:
     wall    :int = 0;
-    lspin   :int = 1;
-    rspin   :int = 2;
+    lspin   :int = 1; # later maybe
+    rspin   :int = 2; # later maybe
     finish  :int = 3;
 
 class Game:
